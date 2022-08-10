@@ -1,6 +1,6 @@
 ﻿namespace Client
 {
-    class Program
+    class Program // добавил новую ветку , и коментарий чтобы вспомнить как клонировать репозитории
     {
         static void Main(string[] args)
         {
